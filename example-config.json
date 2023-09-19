@@ -1,0 +1,12 @@
+{
+    "path": "dav",
+    "no-auth-warning": false,
+    "username": "username",
+    "password": "secret",
+    "port": "7000",
+    "host": "localhost",
+    "max-cursors": 512,
+    "open-in-editor": "sublime_text",
+    "meta-touch": true,
+    "debug": true
+}
